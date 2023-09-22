@@ -1,0 +1,28 @@
+.hero {
+    background-image: url('https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.bg-txt {
+    color: #fff;
+}
+
+.foot {
+    height: 4rem;
+    width: 100%;
+    margin-top: auto;
+}
+
+.para {
+    text-align: center;
+    line-height: 4rem;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
